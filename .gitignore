@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+index.js
+
+
+git rm -r .vscode
